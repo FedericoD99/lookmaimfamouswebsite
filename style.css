@@ -1,3 +1,15 @@
 div{
     background-color: grey;
+    
+}
+img{
+    max-width: fit-content;
+    max-height: fit-content;
+}
+.carousel{
+border-image-width: auto;
+}
+
+.info {
+ margin-left: 500px;
 }
