@@ -30,19 +30,3 @@ h1{
 p{
     margin-top: 50px;
 }
-
-.see{
-    background-color: grey;
-    margin-left: 100px;
-    border-color: white;
-}
-body {
-    background-color: grey;
-}
-p {
-    font-family: "Raleway", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: <weight>;
-    font-style: normal;
-  }
-  
