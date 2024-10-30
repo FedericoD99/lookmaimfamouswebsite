@@ -1,9 +1,7 @@
 div{
     background-color: grey;
 }
-.img{
-width: 1000px;
-}
+
 .carousel{
 border-image-width: auto;
 }
@@ -29,4 +27,36 @@ h1{
 }
 p{
     margin-top: 50px;
+    text-align: center;
+    margin-left: 100px;
+    padding-bottom: 20px;
+    color: whitesmoke;
+    font-family: "Playfair Display", serif;
+
+}
+.card{
+    background-color: grey;
+    margin-left: 100px;
+    margin-bottom: 50px;
+    border-color: whitesmoke;
+}
+body{
+    background-color: grey;
+    color: whitesmoke;
+    font-family: "Playfair Display", serif;
+    
+}
+.img, .pro{
+    margin-left: 100px;
+}
+h5{
+    margin-left: 120px;
+}
+iframe{
+    padding-bottom: 30px;
+}
+.pickle{
+padding-bottom: 30px;
+padding-left: 80px;
+padding-right: 80px;
 }
